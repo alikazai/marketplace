@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "atMLaPZuT5aA+HGnitC/IytHFOWoLWEkX7CD7vGi/D04vOAu3wk14io7NTnxQDRQYX3uAtAJmTxsDUddLfbelQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\alikazai\\marketplace\\Marketplace\\Marketplace\\Marketplace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alika\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512",
+    "C:\\Users\\alika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
