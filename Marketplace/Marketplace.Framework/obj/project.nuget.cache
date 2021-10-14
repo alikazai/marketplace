@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXID9MisybdkuZjs9A0R1e9ddDcArnWper1biqFCeJ3yZybtr6vPLCULB+Pbpgk3IHoKZJFg3KuxQj/RBUgAtA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\alikazai\\marketplace\\Marketplace\\Marketplace.Framework\\Marketplace.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
