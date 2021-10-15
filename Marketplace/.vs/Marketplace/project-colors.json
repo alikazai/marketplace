@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb590bc3-29d0-4620-8018-b51c526c1ff2": {
+      "ProjectGuid": "bb590bc3-29d0-4620-8018-b51c526c1ff2",
+      "DisplayName": "Marketplace",
+      "ColorIndex": 0
+    },
+    "a8c69f46-27d7-4ef9-80fd-ec03d997bdd9": {
+      "ProjectGuid": "a8c69f46-27d7-4ef9-80fd-ec03d997bdd9",
+      "DisplayName": "Marketplace.Domain",
+      "ColorIndex": 1
+    },
+    "2165100f-d640-4374-a1c0-829522dfdf0c": {
+      "ProjectGuid": "2165100f-d640-4374-a1c0-829522dfdf0c",
+      "DisplayName": "Marketplace.Tests",
+      "ColorIndex": 2
+    },
+    "0d2b50bd-7c34-4af2-9074-e6297dfac773": {
+      "ProjectGuid": "0d2b50bd-7c34-4af2-9074-e6297dfac773",
+      "DisplayName": "Marketplace.Framework",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
